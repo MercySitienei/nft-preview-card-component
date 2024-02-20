@@ -16,19 +16,19 @@ body{
 main{
     background-color: hsl(216, 50%, 16%);
     border-radius: 10px;
-    height: 400px;
-    width: 235px;
+    height: 460px;
+    width: 295px;
     padding: 17.5px;
 }
 .Equilibrium-image{
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 260px;
+    height: 240px;
 
 }
 .Equilibrium-image img{
-    width: 200px;
-    height: 200px;
+    width: 260px;
+    height: 240px;
     border-radius: 7px;
 }
 .overlay {
@@ -59,13 +59,13 @@ main{
 }
 .description h1{
     color: hsl(0, 0%, 100%);
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 600;
     padding-top: 17px;
 }
 .description p{
     color: hsl(215, 51%, 70%);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 200;
     padding: 14px 0;
     line-height: 18px;
@@ -78,7 +78,7 @@ main{
 }
 .ethereum{
     color: hsl(178, 100%, 50%);
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 400;
     display: flex;
     align-items: center;
@@ -86,26 +86,24 @@ main{
 .ethereum img,
 .clock img{
     padding-right: 6px;
-    width: 17px;
-    height: 12px;
 }
 .clock{
     color: hsl(215, 51%, 70%);
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 300;
     display: flex;
     align-items: center;
 }
 .creator img{
-    width: 22px;
-    height: 22px;
+    width: 27px;
+    height: 27px;
     border: solid white 1px;
     border-radius: 50%;
 }
 .creator{
     display: flex;
     align-items: center;
-    font-size: 11px;
+    font-size: 12px;
     padding: 10px 0 20px 0;
 }
 .creator p span{
