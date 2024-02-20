@@ -16,19 +16,19 @@ body{
 main{
     background-color: hsl(216, 50%, 16%);
     border-radius: 10px;
-    height: 460px;
-    width: 295px;
+    height: 500px;
+    width: 335px;
     padding: 17.5px;
 }
 .Equilibrium-image{
     position: relative;
-    width: 260px;
-    height: 240px;
+    width: 300px;
+    height: 280px;
 
 }
 .Equilibrium-image img{
-    width: 260px;
-    height: 240px;
+    width: 300px;
+    height: 280px;
     border-radius: 7px;
 }
 .overlay {
@@ -65,7 +65,7 @@ main{
 }
 .description p{
     color: hsl(215, 51%, 70%);
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 200;
     padding: 14px 0;
     line-height: 18px;
@@ -78,7 +78,7 @@ main{
 }
 .ethereum{
     color: hsl(178, 100%, 50%);
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
     display: flex;
     align-items: center;
@@ -89,7 +89,7 @@ main{
 }
 .clock{
     color: hsl(215, 51%, 70%);
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 300;
     display: flex;
     align-items: center;
@@ -103,7 +103,7 @@ main{
 .creator{
     display: flex;
     align-items: center;
-    font-size: 12px;
+    font-size: 15px;
     padding: 10px 0 20px 0;
 }
 .creator p span{
@@ -121,7 +121,7 @@ a:hover{
 }
 
 .attribution {
-    font-size: 11px;
+    font-size: 18px;
     text-align: center;
     color: white;
     padding-top: 10px;
